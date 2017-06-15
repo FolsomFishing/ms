@@ -1,0 +1,6 @@
+[18-Jun-2011 13:02:38] PHP Warning:  include(templates/analytics) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/trisan/public_html/index.php on line 10
+[18-Jun-2011 13:02:38] PHP Warning:  include(templates/analytics) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/trisan/public_html/index.php on line 10
+[18-Jun-2011 13:02:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'templates/analytics' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/trisan/public_html/index.php on line 10
+[18-Jun-2011 13:05:18] PHP Warning:  include(templates/analytics) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/trisan/public_html/products.php on line 6
+[18-Jun-2011 13:05:18] PHP Warning:  include(templates/analytics) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/trisan/public_html/products.php on line 6
+[18-Jun-2011 13:05:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'templates/analytics' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/trisan/public_html/products.php on line 6
